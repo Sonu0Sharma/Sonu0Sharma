@@ -19,6 +19,16 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sonu0Sharma&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sonu0Sharma&icon=6&color=9)](https://visitcount.itsvg.in)
+  <br><br>
+	<!--
+  <a href="https://github.com/geekylakshya">
+    <img src="https://komarev.com/ghpvc/?username=geekylakshya" alt="page views" />
+  </a>
+-->
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/geekylakshya/count.svg" />
+  <br><br>
+  Last updated on: 2024-04-17 02:07 AM IST
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

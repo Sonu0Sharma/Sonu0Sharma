@@ -30,5 +30,9 @@
   <br><br>
   Last updated on: 2024-04-17 02:07 AM IST
 </p>
-
+<br><br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthSharma272&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma272&layout=compact&theme=radical" alt="Most used languages" />
+</div>
 

@@ -32,7 +32,14 @@
 </p>
 <br><br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthSharma272&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma272&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="60" style="display:inline-block; margin-right: 340px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="60" style="display:inline-block;"/>
 </div>
+
 

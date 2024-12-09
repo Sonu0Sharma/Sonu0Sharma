@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](<img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg" alt="Instagram Badge" style="width:100px; height:auto;">
-)](https://instagram.com/https://www.instagram.com/sonu0sharma1) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+](https://instagram.com/https://www.instagram.com/sonu0sharma1) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-sharma1000) 
 

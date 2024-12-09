@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black" alt="Instagram Badge" style="width:100px; height:auto;">
+[![Instagram](<img src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-app-logo.jpg" alt="Instagram Badge" style="width:100px; height:auto;">
 )](https://instagram.com/https://www.instagram.com/sonu0sharma1) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-sharma1000) 

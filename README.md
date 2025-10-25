@@ -1,3 +1,10 @@
+
+# Yoo! Buddy What’s up👋
+## Welcome to Cult Classic
+<br>
+"Turning data into decisions, models into systems, and systems into scalable cloud solutions"
+
+<br><hr><br>
 # 💫 About Me:
 👨‍💻 Computer Science Student | B.Tech @ University School of Automation and Robotics.<br>👨‍🎓 Specialised @ Artificial Intelligence & Data Science.<br>🚀 Currently exploring Machine learning, and WEB-3.0.<br>💼 Contributor to GirlScript Summer of Code 2024.<br>🏆 Grand Finalist @ Smart India Hackathon 2023.<br>🎯 Always on the lookout for challenging projects and collaboration opportunities😇.
 
@@ -18,14 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu0Sharma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- -->
 
-### Tag Line -
-
-"Turning data into decisions, models into systems, and systems into scalable cloud solutions"
 
 
 

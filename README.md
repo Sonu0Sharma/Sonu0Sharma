@@ -80,8 +80,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sonu0Sharma&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
-
-</p>
 <br><br>
 
 

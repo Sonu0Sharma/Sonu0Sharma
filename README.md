@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-👨‍💻 Computer Science Engineer | B.Tech @ University School of Automation and Robotics.<br>👨‍🎓 Specialised @ Artificial Intelligence & Data Science.<br>🚀 Currently exploring Machine learning, and WEB-3.0.<br>💼 Contributor to GirlScript Summer of Code 2024.<br>🏆 Grand Finalist @ Smart India Hackathon 2023.<br>🎯 Always on the lookout for challenging projects and collaboration opportunities😇.
+👨‍💻 Computer Science Engineer | B.Tech @ University School of Automation and Robotics.<br>👨‍🎓 Specialised @ Artificial Intelligence & Data Science.<br>🚀 Currently exploring Machine learning .<br>💼 Contributor to GirlScript Summer of Code 2024.<br>🏆 Grand Finalist @ Smart India Hackathon 2023 and 2025.<br>🎯 Always on the lookout for challenging projects and collaboration opportunities😉.
 
 
 ## 🌐 Socials:

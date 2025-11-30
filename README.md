@@ -1,6 +1,7 @@
 
 # Yoo! 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=30&duration=4000&pause=200&color=6CD6F7&width=435&lines=Buddy+What%E2%80%99s+up%F0%9F%91%8B;Welcome+to+Cult+Classic!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=200&color=F7F7F7&width=435&lines=Buddy+What%E2%80%99s+up%F0%9F%91%8B;Welcome+to+Cult+Classic!)](https://git.io/typing-svg)
+
 "Turning data into decisions, models into systems, and systems into scalable cloud solutions"
 
 ---

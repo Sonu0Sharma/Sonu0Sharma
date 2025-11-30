@@ -16,6 +16,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sonu0sharma1) <span>|	</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-sharma1000) <span>|	</span>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sonu001Sharma) <span>|	</span>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sonu0sharma1)
+
 
 </div>
 

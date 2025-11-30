@@ -1,6 +1,5 @@
 
-# Yoo! Buddy What’s up👋
-## Welcome to Cult Classic
+# Yoo! [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=200&width=435&lines=Buddy+What%E2%80%99s+up%F0%9F%91%8B;Welcome+to+Cult+Classic)](https://git.io/typing-svg)
 "Turning data into decisions, models into systems, and systems into scalable cloud solutions"
 
 ---

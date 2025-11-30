@@ -13,14 +13,15 @@
 ## 🌐 Socials:
 <div>
 
-[![Instagram](assets/icons/brown_instagram.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_x.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_linkedin.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_youtube.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_kaggle.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_leetcode.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_twitter_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_instagram_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_x_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_linkedin_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_youtube_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_kaggle_2.png)](https://instagram.com) <span>|	</span>
+[![Instagram](assets/icons/brown_leetcode_2.png)](https://instagram.com) <span>|	</span>
 [![Instagram](assets/icons/brown_hashnode.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_medium.png)](https://instagram.com) 
+[![Instagram](assets/icons/brown_medium_2.png)](https://instagram.com) 
 
 
 </div>

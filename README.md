@@ -13,16 +13,16 @@
 ## 🌐 Socials:
 <div>
 
-[![Twitter](assets/icons/brown_twitter_2.png)](https://instagram.com) <span>|	</span>
-[![Instagram](assets/icons/brown_instagram_2.png)](https://instagram.com) <span>|	</span>
-[![X](assets/icons/brown_x_2.png)](https://instagram.com) <span>|	</span>
-[![LinkedIn](assets/icons/brown_linkedin_2.png)](https://instagram.com) <span>|	</span>
-[![Youtube](assets/icons/brown_youtube_2.png)](https://instagram.com) <span>|	</span>
-[![Kaggle](assets/icons/brown_kaggle_2.png)](https://instagram.com) <span>|	</span>
-[![Leetcode](assets/icons/brown_leetcode_2.png)](https://instagram.com) <span>|	</span>
-[![Hashnode](assets/icons/brown_hashnode.png)](https://instagram.com) <span>|	</span>
-[![Medium](assets/icons/brown_medium_2.png)](https://instagram.com) 
-[![Medium](assets/icons/brown_medium.png)](https://instagram.com) <span>|	</span>
+[![Twitter](assets/icons/brown_twitter_2.png)](https://x.com/Sonu001Sharma) <span>|	</span>
+[![Instagram](assets/icons/brown_instagram_2.png)](https://www.instagram.com/sonu_sharma_official01/) <span>|	</span>
+[![X](assets/icons/brown_x_2.png)](https://x.com/Sonu001Sharma) <span>|	</span>
+[![LinkedIn](assets/icons/brown_linkedin_2.png)](https://www.linkedin.com/in/sonu-sharma1000/) <span>|	</span>
+[![Youtube](assets/icons/brown_youtube_2.png)](https://www.youtube.com/@Sonu_Sharma_Offical01) <span>|	</span>
+[![Kaggle](assets/icons/brown_kaggle_2.png)](https://www.kaggle.com/sonusharma0001) <span>|	</span>
+[![Leetcode](assets/icons/brown_leetcode_2.png)](https://leetcode.com/u/SonuShrama/) <span>|	</span>
+[![Hashnode](assets/icons/brown_hashnode.png)](https://hashnode.com/@Sonu-Sharma) <span>|	</span>
+[![Medium](assets/icons/brown_medium_2.png)](https://medium.com/@sonusharmaofficial01mail) <span>|	</span>
+[![Medium](assets/icons/brown_medium.png)](https://medium.com/@sonusharmaofficial01mail) 
 
 
 </div>

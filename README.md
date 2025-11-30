@@ -20,9 +20,6 @@
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/Sonu001Sharma/) <span>|	</span>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-sharma1000) <span>|	</span>
 
-[![X](https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000)]
-[![X](https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000)]
-
 </div>
 
 ---
